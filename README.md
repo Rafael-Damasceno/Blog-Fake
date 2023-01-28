@@ -6,6 +6,9 @@ Projeto construído como exercício do curso da B7web
 
 link da requisição: //https://jsonplaceholder.typicode.com/posts
 
+![Preview](./.github/Preview.png)
+
+[Clique aqui para acessar](https://rafael-damasceno.github.io/Blog-Fake/)
 
 ## Tecnologias:
 
