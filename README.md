@@ -15,6 +15,7 @@ link da requisição: //https://jsonplaceholder.typicode.com/posts
 - HTML
 - CSS
 - Git e Github
+- JavaScript
 
 ### Aprendido:
 
